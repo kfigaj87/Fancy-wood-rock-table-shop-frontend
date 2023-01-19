@@ -1,3 +1,13 @@
+# Fancy wood/rock table shop by Karol Figaj
+
+Frontend:
+
+This is a table configurator application project with the selected object in real time written in React.js and Three.js library. After configuring the product, complete the form that will send an e-mail confirming the selected product. Fill in the fields before submitting the form.
+
+In the project I also used : "axios", "react-bootstrap", "react-dom", "react-router-dom"
+
+The project connects to the mongoDB database using the port "http://localhost:3005"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

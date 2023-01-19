@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400&display=swap");
+
+input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #111;
+  transition: 0.3s;
+  background-color: #fafafa;
+}
+
+input:hover {
+  background-color: #fafafa;
+}
+
+.mb__3 {
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.table__cart {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  text-transform: lowercase;
+  border: 1px solid;
+}
+
+.table__cart__col1 {
+  text-transform: uppercase;
+}
+
+.btn__subbmit {
+  margin: 15px;
+}
+
+.form__Address {
+  margin-top: 15px;
+}
+
+.span__Validate {
+  color: #21212d;
+  font-family: "Poppins", sans-serif;
+}
